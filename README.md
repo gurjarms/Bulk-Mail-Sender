@@ -3,4 +3,4 @@ The bulk-Email-sender is alloww users to send mail in bulk using various email &
 
 you can create virtual environment for better experience about project
 
-"# Bulk-Mail-Sender" 
+## Bulk-Mail-Sender

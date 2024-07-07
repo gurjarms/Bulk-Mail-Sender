@@ -5,8 +5,8 @@ from email.mime.multipart import MIMEMultipart
 def sendmail(email, licencekey):
     # Email content
     content = f"""Licence key = {licencekey}"""
-    from_email = "bulkmail1@geektheo.com"
-    password = "bulkmail1@bulkmail1"
+    from_email = "Useremail@gmail.com"
+    password = "emailpassword"
     subject = "Licence Key"
 
     # Create a multipart message
